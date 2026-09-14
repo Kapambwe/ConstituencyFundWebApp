@@ -1,0 +1,7 @@
+[
+  { "Id": "WDC-MEMBER-001", "WardId": "Matero Ward 1", "Name": "John Mwale", "Role": "Chairperson", "Organisation": "Community", "Contact": "john.mwale@example.zm", "Status": "Active", "TermEnd": "2028-06-30", "MeetingsAttended": 6 },
+  { "Id": "WDC-MEMBER-002", "WardId": "Matero Ward 1", "Name": "Mary Banda", "Role": "Secretary", "Organisation": "Community", "Contact": "mary.banda@example.zm", "Status": "Active", "TermEnd": "2028-06-30", "MeetingsAttended": 6 },
+  { "Id": "WDC-MEMBER-003", "WardId": "Matero Ward 1", "Name": "Peter Phiri", "Role": "Treasurer", "Organisation": "Community", "Contact": "peter.phiri@example.zm", "Status": "Active", "TermEnd": "2028-06-30", "MeetingsAttended": 5 },
+  { "Id": "WDC-MEMBER-004", "WardId": "Matero Ward 1", "Name": "Grace Zulu", "Role": "Community Representative", "Organisation": "Youth CSO", "Contact": "grace.zulu@example.zm", "Status": "Active", "TermEnd": "2028-06-30", "MeetingsAttended": 5 },
+  { "Id": "WDC-MEMBER-005", "WardId": "Matero Ward 1", "Name": "Chief Representative", "Role": "Traditional Leader", "Organisation": "Traditional Leadership", "Contact": "chief.rep@example.zm", "Status": "Active", "TermEnd": "2028-06-30", "MeetingsAttended": 4 }
+]
